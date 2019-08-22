@@ -1,5 +1,5 @@
 {
-  "title": "Machine Learning Mastery with Python",
+  "title": "Data Structure",
   "description": "Run Python Code with Jupyter Notebooks.",
   "difficulty": "Beginner",
   "time": "10 minutes",
@@ -9,11 +9,16 @@
       "text": "steps/1/step1.md"
     },
  {
+<<<<<<< HEAD
       "title": "Tuple ",
+=======
+      "title": "Convert string to float",
+>>>>>>> 3ac545b291eb1b2868450939e3bdf3121e95c82b
       "text": "steps/2/step2.md",
       "answer": "steps/2/answer.md"
     },    
   {
+<<<<<<< HEAD
       "title": "List",
       "text": "steps/3/step3.md",
       "answer": "steps/3/answer.md"
@@ -22,6 +27,11 @@
       "title": "Dictionary",
       "text": "steps/4/step4.md",
       "answer": "steps/4/answer.md"
+=======
+      "title": "Convert string to int",
+      "text": "steps/3/step3.md",
+      "answer": "steps/3/result.md"
+>>>>>>> 3ac545b291eb1b2868450939e3bdf3121e95c82b
     }],
     "intro": {
       "text": "intro.md",
