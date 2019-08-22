@@ -1,12 +1,7 @@
-## Dictionary
-Dictionaries are mappings of names to values, like key-value pairs. Note the use of the curly bracket and colon notations when defining the dictionary.
-**code**
 
-`mydict = {'a': 1, 'b': 2, 'c': 3}
-print("A value: %d" % mydict['a'])
-mydict['a'] = 11
-print("A value: %d" % mydict['a'])
-print("Keys: %s" % mydict.keys())
-print("Values: %s" % mydict.values())
-for key in mydict.keys():
-print(mydict[key])`{{execute}}
+The Notebook opens in a new browser window. You can create a new notebook or open a local one. Check out the local folder `work` for several notebooks. Open and run `list.ipynb` in the `work` folder.
+
+You can also open the Jupyter Notebook at https://[[HOST_SUBDOMAIN]]-8888-[[KATACODA_HOST]].environments.katacoda.com/notebooks/work/convert_string_to_int.ipynb
+
+**Note:**
+There are placeholder(s) to write python code. If you need any help, you can checkout solution tab.

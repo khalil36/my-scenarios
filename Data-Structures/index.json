@@ -9,24 +9,19 @@
       "text": "steps/1/step1.md"
     },
  {
-      "title": "Convert string to float",
-      "text": "steps/2/text.md",
+      "title": "Tuple ",
+      "text": "steps/2/step2.md",
       "answer": "steps/2/answer.md"
     },    
   {
-      "title": "Convert string to int",
-      "text": "steps/3/text.md",
+      "title": "List",
+      "text": "steps/3/step3.md",
       "answer": "steps/3/answer.md"
     },
   {
-      "title": "Load csv",
-      "text": "steps/4/text.md",
+      "title": "Dictionary",
+      "text": "steps/4/step4.md",
       "answer": "steps/4/answer.md"
-    },
-  {
-      "title": "Load csv better",
-      "text": "steps/5/text.md",
-      "answer": "steps/5/answer.md"
     }],
     "intro": {
       "text": "intro.md",
@@ -40,25 +35,17 @@
         { 
           "file": "prepareContainer.sh",  
           "target": "~/"  
-        },  
+        },    
         { 
-          "file": "pima-indians-diabetes.csv",  
-          "target": "~/"  
-        },  
-        { 
-          "file": "convert_string_to_float.ipynb",  
+          "file": "list.ipynb",  
           "target": "~/"
         },
         { 
-          "file": "convert_string_to_int.ipynb",  
+          "file": "strings.ipynb",  
           "target": "~/"  
         },  
         { 
-          "file": "load_csv.ipynb", 
-          "target": "~/"  
-        },  
-        { 
-          "file": "load_csv_better.ipynb",  
+          "file": "tuple.ipynb", 
           "target": "~/"  
         }
       ]
