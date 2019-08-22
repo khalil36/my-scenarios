@@ -8,12 +8,20 @@
       "title": "Jupyter Notebook",
       "text": "steps/1/step1.md"
     },
+<<<<<<< HEAD
  	{
+=======
+ {
+>>>>>>> ace2c0c0f128b09e7e0e8eeb90a52432f4104aae
       "title": "Tuple ",
       "text": "steps/2/step2.md",
       "answer": "steps/2/answer.md"
     },    
+<<<<<<< HEAD
   	{
+=======
+  {
+>>>>>>> ace2c0c0f128b09e7e0e8eeb90a52432f4104aae
       "title": "List",
       "text": "steps/3/step3.md",
       "answer": "steps/3/answer.md"
@@ -41,7 +49,11 @@
           "target": "~/"
         },
         { 
+<<<<<<< HEAD
           "file": "dictionary.py",  
+=======
+          "file": "dictionary.ipynb",  
+>>>>>>> ace2c0c0f128b09e7e0e8eeb90a52432f4104aae
           "target": "~/"  
         },  
         { 
