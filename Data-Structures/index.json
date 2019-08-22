@@ -37,15 +37,15 @@
           "target": "~/"  
         },    
         { 
-          "file": "list.py",  
+          "file": "list.ipynb",  
           "target": "~/"
         },
         { 
-          "file": "dictionary.py",   
+          "file": "dictionary.ipynb",   
           "target": "~/"  
         },  
         { 
-          "file": "tuple.py", 
+          "file": "tuple.ipynb", 
           "target": "~/"  
         }
       ]
