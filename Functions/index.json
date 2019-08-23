@@ -9,25 +9,9 @@
       "text": "steps/1/step1.md"
     },
     {
-<<<<<<< HEAD:Functions/index.json
       "title": "Functions ",
       "text": "steps/2/step2.md",
       "answer": "steps/2/answer.md"
-=======
-      "title": "Tuple ",
-      "text": "steps/2/step2.md",
-      "answer": "steps/2/answer.md"
-    },    
-  	{
-      "title": "List",
-      "text": "steps/3/step3.md",
-      "answer": "steps/3/answer.md"
-    },
-  	{
-      "title": "Dictionary",
-      "text": "steps/4/step4.md",
-      "answer": "steps/4/answer.md"
->>>>>>> 54e9f9a48abb0f88ba3e81ed11ecf9d93d329cf2:Data-Structures/index.json
     }],
 
     "intro": {
@@ -44,24 +28,10 @@
           "target": "~/"  
         },    
         { 
-<<<<<<< HEAD:Functions/index.json
           "file": "function.ipynb",  
           "target": "~/"
-=======
-          "file": "list.ipynb",  
-          "target": "~/"
-        },
-        { 
-          "file": "dictionary.ipynb",   
-          "target": "~/"  
-        },  
-        { 
-          "file": "tuple.ipynb", 
-          "target": "~/"  
->>>>>>> 54e9f9a48abb0f88ba3e81ed11ecf9d93d329cf2:Data-Structures/index.json
-        }
-      ]
-    }
+        }],
+    },
   },
   "environment": {
     "uilayout": "terminal-iframe",
