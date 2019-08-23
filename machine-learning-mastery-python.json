@@ -1,0 +1,11 @@
+{
+  "title": "Machine Learning Mastery with Python",
+  "description": "Machine Learning Mastery Algorithms in Python From Scratch",
+  "courses": [
+    {
+      "course_id": "chapter-03",
+      "title": "Chapter 3",
+      "description": "Run Python Code with Jupyter Notebooks."
+    }
+  ]
+}
