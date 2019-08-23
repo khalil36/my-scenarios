@@ -13,7 +13,6 @@
       "text": "steps/2/step2.md",
       "answer": "steps/2/answer.md"
     }],
-
     "intro": {
       "text": "intro.md",
       "code": "set-env.sh"
@@ -30,8 +29,8 @@
         { 
           "file": "function.ipynb",  
           "target": "~/"
-        }],
-    },
+        }]
+    }
   },
   "environment": {
     "uilayout": "terminal-iframe",
