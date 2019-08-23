@@ -1,7 +1,7 @@
+## Example of Tuple
+The Notebook opens in a new browser window. You can create a new notebook or open a local one. Check out the local folder `work` for notebooks. Open and run `tuple.ipynb` in the `work` folder.
 
-The Notebook opens in a new browser window. You can create a new notebook or open a local one. Check out the local folder `work` for notebooks. Open and run `strings.ipynb` in the `work` folder.
-
-You can also open the Jupyter Notebook at https://[[HOST_SUBDOMAIN]]-8888-[[KATACODA_HOST]].environments.katacoda.com/notebooks/work/convert_string_to_float.ipynb
+You can also open the Jupyter Notebook at https://[[HOST_SUBDOMAIN]]-8888-[[KATACODA_HOST]].environments.katacoda.com/notebooks/work/tuple.ipynb
 
 **Note:**
 There are placeholder(s) to write python code. If you need any help, you can checkout solution tab.
