@@ -1,5 +1,5 @@
 {
-  "title": "Data Structure",
+  "title": "data structure",
   "description": "Run Python Code with Jupyter Notebooks.",
   "difficulty": "Beginner",
   "time": "10 minutes",
@@ -9,17 +9,17 @@
         "text": "steps/1/step1.md"
       },
       {
-        "title": "Tuple ",
+        "title": "If-Than-Else ",
         "text": "steps/2/step2.md",
         "answer": "steps/2/answer.md"
       },
       {
-        "title": "List",
+        "title": "For Loop",
         "text": "steps/3/step3.md",
         "answer": "steps/3/answer.md"
       },
       {
-        "title": "Dictionary",
+        "title": "While Loop",
         "text": "steps/4/step4.md",
         "answer": "steps/4/answer.md"
       }
@@ -37,15 +37,15 @@
           "target": "~/"
         },
         {
-          "file": "list.ipynb",
+          "file": "if-than-else.ipynb",
           "target": "~/"
         },
         {
-          "file": "dictionary.ipynb",
+          "file": "for-loop.ipynb",
           "target": "~/"
         },
         {
-          "file": "tuple.ipynb",
+          "file": "while-loop.ipynb",
           "target": "~/"
         }
       ]
