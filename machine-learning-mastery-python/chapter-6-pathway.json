@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "title": "Machine Learning Mastery with Python",
   "description": "Understand Your Data With Visualization",
@@ -13,4 +14,21 @@
       "description": "Run Python Code with Jupyter Notebooks."
     }
   ]
+=======
+{
+  "title": "Machine Learning Mastery with Python",
+  "description": "Understand Your Data With Visualization",
+  "courses": [
+    {
+      "course_id": "multi-variate-plots",
+      "title": "Multi Variate Plots",
+      "description": "Run Python Code with Jupyter Notebooks."
+    },
+    {
+      "course_id": "univariate-plots",
+      "title": "Univariate Plots",
+      "description": "Run Python Code with Jupyter Notebooks."
+    }
+  ]
+>>>>>>> 1df64e93d0b83fad483234aacbc730a768f5050b
 }
