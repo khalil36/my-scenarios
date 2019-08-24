@@ -1,23 +1,25 @@
 {
-  "title": "Multivariate Plots(Correlation Matrix Plot, Scatter Plot Matrix)",
+  "title": "Multivariate Plots",
   "description": "Run Python Code with Jupyter Notebooks.",
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
-    "steps": [{
-      "title": "Jupyter Notebook",
-      "text": "steps/1/step1.md"
-    },
-    {
-      "title": "Correlation Matrix Plot",
-      "text": "steps/2/step2.md",
-      "answer": "steps/2/answer.md"
-    },    
-    {
-      "title": "Scatter Plot Matrix",
-      "text": "steps/3/step3.md",
-      "answer": "steps/3/answer.md"
-    }],
+    "steps": [
+      {
+        "title": "Jupyter Notebook",
+        "text": "steps/1/step1.md"
+      },
+      {
+        "title": "Correlation Matrix Plot",
+        "text": "steps/2/step2.md",
+        "answer": "steps/2/answer.md"
+      },    
+      {
+        "title": "Scatter Plot Matrix",
+        "text": "steps/3/step3.md",
+        "answer": "steps/3/answer.md"
+      }
+    ],
     "intro": {
       "text": "intro.md",
       "code": "set-env.sh"
