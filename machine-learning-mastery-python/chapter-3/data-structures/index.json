@@ -4,7 +4,8 @@
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
-    "steps": [{
+    "steps": [
+      {
         "title": "Jupyter Notebook",
         "text": "steps/1/step1.md"
       },
