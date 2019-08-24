@@ -5,24 +5,25 @@
   "time": "10 minutes",
   "details": {
     "steps": [{
-      "title": "Jupyter Notebook",
-      "text": "steps/1/step1.md"
-    },
-    {
-      "title": "If-Than-Else ",
-      "text": "steps/2/step2.md",
-      "answer": "steps/2/answer.md"
-    },    
-    {
-      "title": "For Loop",
-      "text": "steps/3/step3.md",
-      "answer": "steps/3/answer.md"
-    },
-    {
-      "title": "While Loop",
-      "text": "steps/4/step4.md",
-      "answer": "steps/4/answer.md"
-    }],
+        "title": "Jupyter Notebook",
+        "text": "steps/1/step1.md"
+      },
+      {
+        "title": "If-Than-Else ",
+        "text": "steps/2/step2.md",
+        "answer": "steps/2/answer.md"
+      },
+      {
+        "title": "For Loop",
+        "text": "steps/3/step3.md",
+        "answer": "steps/3/answer.md"
+      },
+      {
+        "title": "While Loop",
+        "text": "steps/4/step4.md",
+        "answer": "steps/4/answer.md"
+      }
+    ],
     "intro": {
       "text": "intro.md",
       "code": "set-env.sh"
@@ -31,22 +32,21 @@
       "text": "finish.md"
     },
     "assets": {
-      "client": [
-        { 
-          "file": "prepareContainer.sh",  
-          "target": "~/"  
-        },    
-        { 
-          "file": "if-than-else.ipynb",  
+      "client": [{
+          "file": "prepareContainer.sh",
           "target": "~/"
         },
-        { 
-          "file": "for-loop.ipynb",   
-          "target": "~/"  
-        },  
-        { 
-          "file": "while-loop.ipynb", 
-          "target": "~/"  
+        {
+          "file": "if-than-else.ipynb",
+          "target": "~/"
+        },
+        {
+          "file": "for-loop.ipynb",
+          "target": "~/"
+        },
+        {
+          "file": "while-loop.ipynb",
+          "target": "~/"
         }
       ]
     }
@@ -54,12 +54,10 @@
   "environment": {
     "uilayout": "terminal-iframe",
     "showdashboard": true,
-    "dashboards": [
-      {
-        "name": "Jupyter Notebook",
-        "port": 8888
-      }
-    ],
+    "dashboards": [{
+      "name": "Jupyter Notebook",
+      "port": 8888
+    }],
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n"
   },
   "backend": {

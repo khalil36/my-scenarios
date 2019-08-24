@@ -5,19 +5,20 @@
   "time": "10 minutes",
   "details": {
     "steps": [{
-      "title": "Jupyter Notebook",
-      "text": "steps/1/step1.md"
-    },
-    {
-      "title": "Series",
-      "text": "steps/2/step2.md",
-      "answer": "steps/2/answer.md"
-    },    
-    {
-      "title": "Data Frame",
-      "text": "steps/3/step3.md",
-      "answer": "steps/3/answer.md"
-    }],
+        "title": "Jupyter Notebook",
+        "text": "steps/1/step1.md"
+      },
+      {
+        "title": "Series",
+        "text": "steps/2/step2.md",
+        "answer": "steps/2/answer.md"
+      },
+      {
+        "title": "Data Frame",
+        "text": "steps/3/step3.md",
+        "answer": "steps/3/answer.md"
+      }
+    ],
     "intro": {
       "text": "intro.md",
       "code": "set-env.sh"
@@ -26,18 +27,17 @@
       "text": "finish.md"
     },
     "assets": {
-      "client": [
-        { 
-          "file": "prepareContainer.sh",  
-          "target": "~/"  
-        },    
-        { 
-          "file": "data-frame.ipynb",  
+      "client": [{
+          "file": "prepareContainer.sh",
           "target": "~/"
         },
-        { 
-          "file": "series.ipynb",   
-          "target": "~/"  
+        {
+          "file": "data-frame.ipynb",
+          "target": "~/"
+        },
+        {
+          "file": "series.ipynb",
+          "target": "~/"
         }
       ]
     }
@@ -45,12 +45,10 @@
   "environment": {
     "uilayout": "terminal-iframe",
     "showdashboard": true,
-    "dashboards": [
-      {
-        "name": "Jupyter Notebook",
-        "port": 8888
-      }
-    ],
+    "dashboards": [{
+      "name": "Jupyter Notebook",
+      "port": 8888
+    }],
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n"
   },
   "backend": {
