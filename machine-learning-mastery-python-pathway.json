@@ -31,6 +31,26 @@
       "course_id": "chapter-8",
       "title": "Chapter - 8",
       "description": "Run Python Code with Jupyter Notebooks."
+    },
+    {
+      "course_id": "chapter-9",
+      "title": "Chapter - 9",
+      "description": "Run Python Code with Jupyter Notebooks."
+    },
+    {
+      "course_id": "chapter-10",
+      "title": "Chapter - 10",
+      "description": "Run Python Code with Jupyter Notebooks."
+    },
+    {
+      "course_id": "chapter-11",
+      "title": "Chapter - 11",
+      "description": "Run Python Code with Jupyter Notebooks."
+    },
+    {
+      "course_id": "chapter-12",
+      "title": "Chapter - 12",
+      "description": "Run Python Code with Jupyter Notebooks."
     }
   ]
 }
