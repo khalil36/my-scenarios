@@ -27,11 +27,6 @@
       "title": "Normalize Data",
       "text": "steps/5/step5.md",
       "answer": "steps/5/answer.md"
-    },
-    {
-      "title": "Binarize Data",
-      "text": "steps/6/step6.md",
-      "answer": "steps/6/answer.md"
     }],
     "intro": {
       "text": "intro.md",
