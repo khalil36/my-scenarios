@@ -1,0 +1,21 @@
+{
+  "title": "Machine Learning Mastery with Python",
+  "description": "Your First Machine Learning Project in Python Step-By-Step",
+  "courses": [
+    {
+      "course_id": "data-visualization",
+      "title": "Data Visualization",
+      "description": "Run Python Code with Jupyter Notebooks."
+    },
+    {
+      "course_id": "evaluate-some-algorithms",
+      "title": "Evaluate Some Algorithms",
+      "description": "Run Python Code with Jupyter Notebooks."
+    },
+    {
+      "course_id": "summarize-the-dataset",
+      "title": "Summarize Dataset",
+      "description": "Run Python Code with Jupyter Notebooks."
+    }
+  ]
+}
