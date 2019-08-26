@@ -9,29 +9,24 @@
       "text": "steps/1/step1.md"
     },
     {
-      "title": "Load CSV Files with the Python Standard Library ",
+      "title": "Rescale Data",
       "text": "steps/2/step2.md",
       "answer": "steps/2/answer.md"
     },    
     {
-      "title": "Rescale Data",
+      "title": "Standardize Data",
       "text": "steps/3/step3.md",
       "answer": "steps/3/answer.md"
     },
     {
-      "title": "Standardize Data",
+      "title": "Normalize Data",
       "text": "steps/4/step4.md",
       "answer": "steps/4/answer.md"
     },
     {
-      "title": "Normalize Data",
+      "title": "Binarize Data",
       "text": "steps/5/step5.md",
       "answer": "steps/5/answer.md"
-    },
-    {
-      "title": "Binarize Data",
-      "text": "steps/6/step6.md",
-      "answer": "steps/6/answer.md"
     }],
     "intro": {
       "text": "intro.md",
