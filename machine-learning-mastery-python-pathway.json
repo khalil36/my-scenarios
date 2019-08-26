@@ -21,6 +21,11 @@
       "course_id": "chapter-6",
       "title": "Chapter - 6",
       "description": "Run Python Code with Jupyter Notebooks."
+    },
+    {
+      "course_id": "chapter-7",
+      "title": "Chapter - 7",
+      "description": "Run Python Code with Jupyter Notebooks."
     }
   ]
 }
