@@ -3,18 +3,8 @@
   "description": "Your First Machine Learning Project in Python Step-By-Step",
   "courses": [
     {
-      "course_id": "data-visualization",
-      "title": "Data Visualization",
-      "description": "Run Python Code with Jupyter Notebooks."
-    },
-    {
-      "course_id": "evaluate-some-algorithms",
-      "title": "Evaluate Some Algorithms",
-      "description": "Run Python Code with Jupyter Notebooks."
-    },
-    {
-      "course_id": "summarize-the-dataset",
-      "title": "Summarize Dataset",
+      "course_id": "your-first-ml-project-in-step-by-step",
+      "title": "Your First Machine Learning Project in Python Step-By-Step",
       "description": "Run Python Code with Jupyter Notebooks."
     }
   ]
