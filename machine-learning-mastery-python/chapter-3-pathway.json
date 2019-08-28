@@ -9,7 +9,11 @@
     },
     {
       "course_id": "data-structures",
+<<<<<<< HEAD
       "title": "Data Structure",
+=======
+      "title": "Data Structures",
+>>>>>>> bf491603caf4378bad0c2df62a40680df74faf2e
       "description": "Run Python Code with Jupyter Notebooks."
     },
     {
