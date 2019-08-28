@@ -1,5 +1,5 @@
 {
-  "title": "Multivariate Plots",
+  "title": "Understand Your Data With Visualization",
   "description": "Run Python Code with Jupyter Notebooks.",
   "difficulty": "Beginner",
   "time": "10 minutes",
@@ -9,14 +9,37 @@
         "text": "steps/1/step1.md"
       },
       {
+        "title": "Univariate Plots",
+        "text": "steps/2/step2.md"
+      },
+      {
+        "title": "Histograms ",
+        "text": "steps/3/step3.md",
+        "answer": "steps/3/answer.md"
+      },
+      {
+        "title": "Density Plots",
+        "text": "steps/4/step4.md",
+        "answer": "steps/4/answer.md"
+      },
+      {
+        "title": "Box and Whisker Plots",
+        "text": "steps/5/step5.md",
+        "answer": "steps/5/answer.md"
+      },
+      {
+        "title": "Multivariate Plots",
+        "text": "steps/6/step6.md"
+      },
+      {
         "title": "Correlation Matrix Plot",
-        "text": "steps/2/step2.md",
-        "answer": "steps/2/answer.md"
+        "text": "steps/7/step7.md",
+        "answer": "steps/7/answer.md"
       },
       {
         "title": "Scatter Plot Matrix",
-        "text": "steps/3/step3.md",
-        "answer": "steps/3/answer.md"
+        "text": "steps/8/step8.md",
+        "answer": "steps/8/answer.md"
       }
     ],
     "intro": {
@@ -32,11 +55,7 @@
           "target": "~/"
         },
         {
-          "file": "correlation-matrix.ipynb",
-          "target": "~/"
-        },
-        {
-          "file": "scatterplot-matrix.ipynb",
+          "file": "start-project.ipynb",
           "target": "~/"
         },
         {
