@@ -1,27 +1,22 @@
 {
-  "title": "Data Structures",
+  "title": "Nonlinear Machine Learning Algorithms",
   "description": "Run Python Code with Jupyter Notebooks.",
   "difficulty": "Beginner",
-  "time": "10 minutes",
+  "time": "20 minutes",
   "details": {
     "steps": [{
       "title": "Jupyter Notebook",
       "text": "steps/1/step1.md"
     },
     {
-      "title": "Tuple",
+      "title": "K-Nearest Neighbors",
       "text": "steps/2/step2.md",
       "answer": "steps/2/answer.md"
     },    
     {
-      "title": "List",
+      "title": "Classification and Regression Trees",
       "text": "steps/3/step3.md",
       "answer": "steps/3/answer.md"
-    },
-    {
-      "title": "Dictionary",
-      "text": "steps/4/step4.md",
-      "answer": "steps/4/answer.md"
     }],
     "intro": {
       "text": "intro.md",
@@ -37,15 +32,15 @@
           "target": "~/"  
         },    
         { 
-          "file": "dictionary.ipynb",  
+          "file": "decision-tree-regression.ipynb",  
           "target": "~/"
         },
         { 
-          "file": "list.ipynb",   
+          "file": "knn-regression.ipynb",   
           "target": "~/"  
-        },  
+        },
         { 
-          "file": "tuple.ipynb", 
+          "file": "housing.csv", 
           "target": "~/"  
         }
       ]
