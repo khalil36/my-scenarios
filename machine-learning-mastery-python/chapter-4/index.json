@@ -49,7 +49,7 @@
           "target": "~/"  
         },
         { 
-          "file": "pima-indians-diabetes.data.csv", 
+          "file": "south-africa.data.csv", 
           "target": "~/"  
         }
       ]
