@@ -2,6 +2,14 @@ pip install --upgrade pip
 # git clone https://github.com/kavgan/word_cloud 
 # cd word_cloud && pip install -e . 
 # cp  ~/word_cloud/*clouds.ipynb  ~/work/Example_word_clouds.ipynb
+git clone --recursive https://github.com/dmlc/xgboost
+cd xgboost
+cp make/minimum.mk ./config.mk
+make -j4
+18
+4.2. Problem Description: Predict Onset of Diabetes 19
+cd python-package
+sudo python setup.py install
 pip install plotly 
 pip install matplotlib_venn 
 pip install cufflinks 
