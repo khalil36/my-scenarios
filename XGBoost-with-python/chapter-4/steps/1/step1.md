@@ -3,6 +3,7 @@ We will run Jupyter Notebook as a Docker container. This setup will take some ti
 ## Login
 When the container is running, execute this statement:
 `docker logs jupyter`{{execute}}
+`mkdir hello`{{execute}}
 
 This will show something like:
 ```
