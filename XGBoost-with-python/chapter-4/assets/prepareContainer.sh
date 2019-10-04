@@ -3,6 +3,7 @@ pip install --upgrade pip
 # cd word_cloud && pip install -e . 
 # cp  ~/word_cloud/*clouds.ipynb  ~/work/Example_word_clouds.ipynb
 pip install xgboost
+pip install keras
 pip install plotly 
 pip install matplotlib_venn 
 pip install cufflinks 
