@@ -6,8 +6,6 @@ git clone --recursive https://github.com/dmlc/xgboost
 cd xgboost
 cp make/minimum.mk ./config.mk
 make -j4
-18
-4.2. Problem Description: Predict Onset of Diabetes 19
 cd python-package
 sudo python setup.py install
 pip install plotly 
