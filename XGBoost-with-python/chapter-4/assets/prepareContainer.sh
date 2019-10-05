@@ -2,8 +2,8 @@ pip install --upgrade pip
 # git clone https://github.com/kavgan/word_cloud 
 # cd word_cloud && pip install -e . 
 # cp  ~/word_cloud/*clouds.ipynb  ~/work/Example_word_clouds.ipynb
-pip install xgboost
-pip install keras
+pip install -U xgboost
+pip install -U keras
 pip install plotly 
 pip install matplotlib_venn 
 pip install cufflinks 
