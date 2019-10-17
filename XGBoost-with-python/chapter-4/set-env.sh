@@ -15,8 +15,8 @@ docker exec -it jupyter bash -c 'cp /tmp/prepareContainerRoot.sh ~/prepareContai
 # execute the script inside the container - to install a number of packages
 # docker exec -it jupyter bash -c './prepareContainer.sh'
 docker exec -it jupyter bash -c 'assets/prepareContainer.sh'
-pip install xgboost
-pip install keras
+pip install -U xgboost
+pip install -U keras
 # # restart the docker container
 docker restart jupyter
 echo 'restarted Jupyter container'
