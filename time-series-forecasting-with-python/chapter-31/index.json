@@ -117,7 +117,7 @@
           "target": "~/"  
         },  
         { 
-          "file": "finalize-save-workaround.ipynb", 
+          "file": "finalize-save.ipynb", 
           "target": "~/"  
         },  
         { 
@@ -129,11 +129,7 @@
           "target": "~/"  
         },  
         { 
-          "file": "model-arima-boxcox.ipynb", 
-          "target": "~/"  
-        },  
-        { 
-          "file": "model-boxcox.ipynb", 
+          "file": "model-bias-corrected-residual.ipynb", 
           "target": "~/"  
         },  
         { 
@@ -145,11 +141,7 @@
           "target": "~/"  
         },  
         { 
-          "file": "model-plot-residual.ipynb", 
-          "target": "~/"  
-        },  
-        { 
-          "file": "model-plot-residual-acf.ipynb", 
+          "file": "model-residual.ipynb", 
           "target": "~/"  
         },  
         { 
@@ -161,11 +153,11 @@
           "target": "~/"  
         },  
         { 
-          "file": "split-dataset.ipynb", 
+          "file": "harness-split.ipynb", 
           "target": "~/"  
         },  
         { 
-          "file": "stealing.csv", 
+          "file": "H2O.csv", 
           "target": "~/"  
         }
       ]
