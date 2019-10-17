@@ -52,23 +52,27 @@
           "target": "~/"  
         },    
         { 
-          "file": "descriptive-stats.ipynb",  
+          "file": "acf-plot.ipynb",  
           "target": "~/"
         },
         { 
-          "file": "head.ipynb",   
+          "file": "density-plot.ipynb",   
           "target": "~/"  
         },  
         { 
-          "file": "load-csv.ipynb", 
+          "file": "line-plot.ipynb", 
           "target": "~/"  
         },  
         { 
-          "file": "query.ipynb", 
+          "file": "persistence-forecast.ipynb", 
           "target": "~/"  
         },  
         { 
-          "file": "size.ipynb", 
+          "file": "qq-plot.ipynb", 
+          "target": "~/"  
+        },  
+        { 
+          "file": "residual-stats.ipynb", 
           "target": "~/"  
         },  
         { 
