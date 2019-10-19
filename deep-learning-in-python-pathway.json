@@ -1,0 +1,16 @@
+{
+  "title": "Deep Learning",
+  "description": "in Python",
+  "courses": [
+    {
+      "course_id": "chapter-7",
+      "title": "Chapter - 7",
+      "description": "Develop Your First Neural Network With Keras"
+    },
+    {
+      "course_id": "chapter-8",
+      "title": "Chapter - 8",
+      "description": "Evaluate The Performance of Deep Learning Models"
+    }
+  ]
+}
